@@ -309,7 +309,7 @@ ul {
 }
 .single-slide-item:after{
     position: absolute;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.4);
     left: 0;
     top: 0;
     width: 100%;
@@ -355,7 +355,7 @@ ul {
 }
 .single-slide-item p{
 	color: #fff;
-	font-size: 15px;
+	font-size: 25px;
 	font-weight: 300;
 	text-transform: capitalize;
 }
